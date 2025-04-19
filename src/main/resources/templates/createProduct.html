@@ -48,6 +48,13 @@
 						</div>		
 					</div>
 					<div class="col-md-6">
+						<label for="location" class="form-label">Pick Up Location</label>
+						<div class="input-group has-validation">					
+							<input type="text" class="form-control" th:classappend="${not #lists.isEmpty(#fields.errors('location'))} ? is-invalid" id="location" th:field="*{location}" required>
+							<span class="invalid-feedback" th:if="${#fields.hasErrors('location')}" th:errors="*{location}"></span>							
+						</div>
+					</div>
+					<div class="col-md-6">
 						<label for="phone" class="form-label">Phone</label>
 						<div class="input-group has-validation">					
 							<input type="text" class="form-control" th:classappend="${not #lists.isEmpty(#fields.errors('phone'))} ? is-invalid" id="phone" th:field="*{phone}" required>

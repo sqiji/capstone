@@ -136,8 +136,8 @@ A structured testing approach was followed:
 - **Traceability Matrix**:
   - Mapped test cases to user stories to ensure complete requirement coverage.
 
-[Download Test Cases (Excel)](/Documents/Test%20Case.xls)  
-[Download Traceability Matrix (Excel)](/Documents/Traceability%20Matrix.xls)
+[Test Cases (Excel)](/Documents/Test%20Case.xls)  
+[Traceability Matrix (Excel)](/Documents/Traceability%20Matrix.xls)
 
 ## New Technologies Learned
 During the Shuqa project, I learned:

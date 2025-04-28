@@ -138,4 +138,9 @@ Shuqa is a full-stack web application addressing real-world community needs. It 
 
 
 # Other Documents
-- Project Requirements.
+- [Project Proposal](/Documents/OtherDoc/ProjectProposal.pdf)
+- [Project Requirements](/Documents/OtherDoc/ProjectRequirements.pdf)
+- [Project Archirecture & Design](/Documents/OtherDoc/ProjectArchitecture&Design.pdf)
+- [Sprint Back Log](/Documents/OtherDoc/SprintBackLog.xls)
+-[Test Cases](/Documents/OtherDoc/TestCase.xls)
+- [Traceability Matrix](/Documents/OtherDoc/TraceabilityMatrix.xls) 

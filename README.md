@@ -76,7 +76,7 @@ The application flow includes:
 - Posting, editing, and deleting products (authenticated users only)
 - Implemented an SMTP-based automated password recovery workflow.
 
-[Flowchart](/Documents/Flowchart.jpg).
+[Flowchart](/Documents/FlowChart.pdf).
 
 ## Sitemap Diagram:
 The sitemap outlines navigation routes between the homepage, login, registration, products listing, and other key areas.
@@ -85,11 +85,11 @@ The sitemap outlines navigation routes between the homepage, login, registration
 
 ## User Interface Diagrams:
 Wireframes were designed in **Figma** to plan and validate the user experience before implementation. <br>
-[Wireframe](/Documents/wireframe.jpg).
+[Wireframe](/Documents/wireframe.pdf).
 
 ## UML Diagrams:
 The system's object-oriented structure is represented using a UML Class Diagram. <br>
-[UML](/Documents/UML.jpg).
+[UML](/Documents/UML.pdf).
 
 ## Non-Functional Requirements (NFRs)
 - **Security**: 

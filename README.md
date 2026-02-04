@@ -85,7 +85,7 @@ The sitemap outlines navigation routes between the homepage, login, registration
 
 ## User Interface Diagrams:
 Wireframes were designed in **Figma** to plan and validate the user experience before implementation. <br>
-[Wireframe](/Documents/wireframe.pdf).
+[Wireframe](/Documents/Wireframe.pdf).
 
 ## UML Diagrams:
 The system's object-oriented structure is represented using a UML Class Diagram. <br>

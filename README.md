@@ -151,4 +151,5 @@ Shuqa is a full-stack web application addressing real-world community needs. It 
 
 ---
 **Author: Soran Qiji\
-Capstone project**
+Capstone project\
+Grand Canyon University**

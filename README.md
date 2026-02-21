@@ -57,13 +57,13 @@ This project employs the **Model-View-Controller (MVC)** architectural pattern, 
 - **Business Layer**: Developed with **Spring Boot** and **Java** for handling application logic and managing user sessions.
 - **Data Access Layer**: Communicates with **MongoDB** to perform CRUD operations.
 
-![Screen1](/Documents/Logical%20Solution%20Design.png)
+[Logical Solution Design](/Documents/Logical%20Solution%20Design.png)
 
 
 ## Physical Solution Design:
 
 
-![Physical Solutoin](/Documents/Physical%20Solution.png)
+[Physical Solutoin](/Documents/Physical%20Solution.png)
 
 ## General Technical Approach:
 The initial focus is on building a functional marketplace platform. Future enhancements include:

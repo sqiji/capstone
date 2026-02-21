@@ -12,7 +12,7 @@
 - [General Technical Approach](#General-Technical-Approach)
 - [Key Technical Design Decisions](#Key-Technical-Design-Decisions)
 - [Schema ER Diagram](#Schema-ER-Diagram)
-- [Flow Charts/Process Flows](#Flow-Charts-/Process-Flows)
+- [Flow Charts/Process Flows](#Flow-Charts-Process-Flows)
 - [Sitemap Diagram](#Sitemap-Diagram)
 - [User Interface Diagrams](#User-Interface-Diagrams)
 - [UML Diagram](#UML-Diagram)

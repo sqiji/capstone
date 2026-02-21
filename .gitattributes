@@ -1,7 +1,9 @@
-# Ignore HTML and CSS for language statistics
-*.html linguist-detectable=false
-*.css linguist-detectable=false
-*.js linguist-detectable=false
-
-# Explicitly tell GitHub to treat Java as the primary focus
+# Force GitHub to identify all files correctly
 *.java linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+
+# Categorize the web templates and styles as 'supporting files'
+# This ensures Java stays the dominant color in the language bar
+src/main/resources/templates/* linguist-documentation=true
+src/main/resources/static/* linguist-documentation=true
